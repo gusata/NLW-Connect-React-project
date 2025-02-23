@@ -1,2 +1,1 @@
-# NLW-Connect-React-project
-Project to NLW connect week by RocketSeat
+# Project made for NLW Connect presented by RocketSeat
